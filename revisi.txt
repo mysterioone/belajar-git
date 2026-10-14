@@ -1,2 +1,7 @@
 IG : BALIIKKKIIN
+<<<<<<< HEAD
 AKU MAIN
+=======
+TIDAK CIHUY
+BARIS 3
+>>>>>>> fitur-tambahan
